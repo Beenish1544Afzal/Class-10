@@ -1,0 +1,17 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+ h1{
+    background-color: aqua;
+} 
+.head{
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 50px;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'Protest Riot', sans-serif;
+    margin-top: 20%;
+    padding-left: 40%;
+    text-decoration: underline double;
+} 
+
+ 
